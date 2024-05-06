@@ -1,0 +1,18 @@
+.calculator{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(240, 191, 130);
+  box-sizing: border-box;
+}
+.calcbody{
+  padding: 20px;
+  background-color: #0f3d4b;
+  border: solid 1px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  cursor: pointer;
+}
